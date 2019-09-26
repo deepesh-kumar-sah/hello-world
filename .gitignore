@@ -1,0 +1,5 @@
+     
+     //ignore .html.swp
+     *.swp
+     
+     _config.yml
