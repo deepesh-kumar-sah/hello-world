@@ -8,7 +8,6 @@
 </head>
 
 <body>
-     
      <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" id="octocat" alt="octocat-gif" />
      <!-- Change this code here by copy and pasting your template on line 15 -->
      <p>Welcome to Master Branch. Managed by Diffrent Branches </p>
@@ -21,6 +20,5 @@
      <p>
           <center><a href="ishant.html">This is managed by Branch-Ishant</a></center>
      </p>
-
 </body>
 </html>
